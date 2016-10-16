@@ -1,9 +1,2 @@
-.idea
-.idea/*
-.idea/workspace.xml
-logs
-logs/*
-app/pids/*
-.env
-*.pid
-*.log
+/*.dat
+!/servercert.dat
